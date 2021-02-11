@@ -28,6 +28,7 @@
     "yoga-layout-prebuilt": "^1.9.3"
   },
   "devDependencies": {
+    "@figma/plugin-typings": "^1.19.1",
     "@types/node": "^14.14.25",
     "@types/react-dom": "^16.9.6",
     "html-webpack-inline-source-plugin": "^0.0.10",
